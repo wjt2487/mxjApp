@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+
+    <menuitem label="文件" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="发票领用管理" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="发票开具管理" >
+        <menu_item label="1.发票填开   " >
+            <item label="1.专用发票填开">
+            </item>
+            <item label="2.普通发票填开">
+            </item>
+        </menu_item>
+        
+        <menu_item label="2.已开发票查询" >
+        </menu_item>
+
+        <menu_item label="3.已开发票作废" >
+        </menu_item>
+
+        <menu_item label="4.未开发票作废" >
+            <item label="该项不涉及发票填开，暂不演示！">
+            </item>
+        </menu_item>
+
+        <menu_item label="5.发票修复   " >
+            <item label="该项不涉及发票填开，暂不演示！">
+            </item>
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="票据打印格式设计" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="红字发票申请单" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="窗体" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="帮助" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+</menu>

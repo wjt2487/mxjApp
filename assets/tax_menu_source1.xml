@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+
+    <menuitem label="文件" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="窗体" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+    <menuitem label="帮助" >
+        <menu_item label="该项不涉及发票填开，暂不演示！" >
+        </menu_item>
+    </menuitem>
+
+</menu>

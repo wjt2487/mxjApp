@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<t3>
+
+    <train id="3" >
+
+        <step
+            idstring="focus_1_EView"
+            index="1"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_2_EView"
+            index="2"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_3_EView"
+            index="3"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_4_EView"
+            index="4"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_5_BView"
+            index="5"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_topmenu_lyt"
+            index="6"
+            value="9" >
+        </step>
+
+        <step
+            idstring="t3_topmenu_lyt"
+            index="7"
+            value="9" >
+        </step>
+    </train>
+
+    <train id="6" >
+
+        <step
+            idstring="focus_1_EView"
+            index="1"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_2_EView"
+            index="2"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_3_EView"
+            index="3"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_4_EView"
+            index="4"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_5_BView"
+            index="5"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_topmenu_lyt"
+            index="6"
+            value="3" >
+        </step>
+
+        <step
+            idstring="dropmenu_firstleavel"
+            index="7"
+            value="4" >
+        </step>
+
+        <step
+            idstring="dropmenu_secondleavel"
+            index="8"
+            value="3" >
+        </step>
+
+        <step
+            idstring="t3_mxz_selectBySubject"
+            index="9"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_mxz_editorSubject"
+            index="10"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_mxz_openBySubject"
+            index="11"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_mxz_submitButton"
+            index="12"
+            value="" >
+        </step>
+
+        <step
+            idstring="showbreakdown_exitBut"
+            index="13"
+            value="" >
+        </step>
+    </train>
+
+    <train id="7" >
+
+        <step
+            idstring="focus_1_EView"
+            index="1"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_2_EView"
+            index="2"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_3_EView"
+            index="3"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_4_EView"
+            index="4"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_5_BView"
+            index="5"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_topmenu_lyt"
+            index="6"
+            value="3" >
+        </step>
+
+        <step
+            idstring="dropmenu_firstleavel"
+            index="7"
+            value="2" >
+        </step>
+
+        <step
+            idstring="dropmenu_secondleavel"
+            index="8"
+            value="4" >
+        </step>
+
+        <step
+            idstring="t3_certificate_certificateTypeText"
+            index="9"
+            value="" >
+        </step>
+
+        <step
+            idstring="certificate_typelist"
+            index="10"
+            value="2" >
+        </step>
+
+        <step
+            idstring="certificate_voucherNumber"
+            index="11"
+            value="" >
+        </step>
+
+        <step
+            idstring="certificate_submutButton"
+            index="12"
+            value="" >
+        </step>
+
+        <step
+            idstring="showCertificate_submitButton"
+            index="13"
+            value="" >
+        </step>
+        <step
+            idstring="fillCertificate_quitButtom"
+            index="14"
+            value="" >
+        </step>
+    </train>
+    <train id="8" >
+
+        <step
+            idstring="focus_1_EView"
+            index="1"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_2_EView"
+            index="2"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_3_EView"
+            index="3"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_4_EView"
+            index="4"
+            value="" >
+        </step>
+
+        <step
+            idstring="focus_5_BView"
+            index="5"
+            value="" >
+        </step>
+
+        <step
+            idstring="t3_topmenu_lyt"
+            index="6"
+            value="3" >
+        </step>
+
+        <step
+            idstring="dropmenu_firstleavel"
+            index="7"
+            value="2" >
+        </step>
+
+        <step
+            idstring="dropmenu_secondleavel"
+            index="8"
+            value="1" >
+        </step>
+        <step
+            idstring="fillCertificate_searchButton"
+            index="9"
+            value="" >
+        </step>
+         <step
+            idstring="t3_fillcertificate_certificateTypeText"
+            index="10"
+            value="" >
+        </step>
+
+        <step
+            idstring="fillcertificate_typelist"
+            index="11"
+            value="1" >
+        </step>
+         <step
+            idstring="fillcertificate_voucherNumber"
+            index="12"
+            value="1" >
+        </step>
+        <step
+            idstring="fillcertificate_submutButton"
+            index="13"
+            value="1" >
+        </step>
+    </train>
+</t3>

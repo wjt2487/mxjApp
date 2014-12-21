@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <menuitem label="文件" >
+        <menu_item label="退出" ></menu_item>
+    </menuitem>
+    <menuitem label="基础设置" >
+        <menu_item label="基本信息" >
+            <item label="编码方案"></item>
+            <item label="数据精度"></item>
+        </menu_item>
+        <menu_item label="机构设置" >
+            <item label="部门档案"></item>
+            <item label="职员档案"></item>
+        </menu_item>
+        <menu_item label="往来单位" >
+            <item label="客户分类" ></item>
+            <item label="客户档案" ></item>
+            <item label="供应商分类" ></item>
+            <item label="供应商档案" ></item>
+            <item label="地区分类" ></item>
+        </menu_item>
+        <menu_item label="存货" >
+            <item label="存货分类" ></item>
+            <item label="存货档案" ></item>
+        </menu_item>
+        <menu_item label="财务" >
+            <item label="会计科目" ></item>
+            <item label="凭证类别" ></item>
+            <item label="项目目录" ></item>
+            <item label="外币种类" ></item>
+        </menu_item>
+        <menu_item label="收付结算" >
+            <item label="结算方式" ></item>
+            <item label="付款条件" ></item>
+            <item label="开户银行" ></item>
+        </menu_item>
+        <menu_item label="购销存" >
+            <item label="仓库档案" ></item>
+            <item label="收发类别" ></item>
+            <item label="采购类型" ></item>
+            <item label="销售类型" ></item>
+            <item label="产品结构" ></item>
+            <item label="成套件" ></item>
+            <item label="费用项目" ></item>
+            <item label="发运方式" ></item>
+            <item label="货位档案" ></item>
+            <item label="非合理损耗类型" ></item>
+        </menu_item>
+        <menu_item label="单据编码设置" ></menu_item>
+        <menu_item label="常用摘要" ></menu_item>
+        <menu_item label="自定义项" ></menu_item>
+        <menu_item label="批量生成助记码" ></menu_item>
+        <menu_item label="账期管理档案" ></menu_item>
+        <menu_item label="消息模板设置" >
+            <item label="文本模板设置" ></item>
+            <item label="预警模板设置" ></item>
+            <item label="指标模板设置" ></item>
+        </menu_item>
+        <menu_item label="消息设置" ></menu_item>
+    </menuitem>
+    <menuitem label="总账" >
+        <menu_item label="设置" >
+            <item label="期初余额" ></item>
+            <item label="明细账权限" ></item>
+            <item label="选项" ></item>
+            <item label="总账套打工具" ></item>
+        </menu_item>
+        <menu_item label="凭证" >
+            <item label="填制凭证" ></item>
+            <item label="出纳签字" ></item>
+            <item label="审核凭证" ></item>
+            <item label="查询凭证" ></item>
+            <item label="打印凭证" ></item>
+            <item label="科目汇总" ></item>
+            <item label="记账" ></item>
+            <item label="常用摘要" ></item>
+            <item label="常用凭证" ></item>
+        </menu_item>
+        <menu_item label="我的账表" >
+            <item label="账表清理" ></item>
+        </menu_item>
+        <menu_item label="账簿查询" >
+            <item label="总账" ></item>
+            <item label="余额表" ></item>
+            <item label="明细账" ></item>
+            <item label="序时账" ></item>
+            <item label="多栏账" ></item>
+            <item label="综合多栏账" ></item>
+            <item label="日记账" ></item>
+            <item label="日记表" ></item>
+            <item label="现金流量明细表" ></item>
+            <item label="现金流量统计表" ></item>
+        </menu_item>
+        <menu_item label="账簿打印" >
+            <item label="总账账簿打印" ></item>
+            <item label="余额表打印" ></item>
+            <item label="明细账簿打印" ></item>
+            <item label="多栏账簿打印" ></item>
+            <item label="日记账簿打印" ></item>
+        </menu_item>
+        <menu_item label="辅助查询" >
+            <item label="个人往来余额表" >
+                <item_l label="个人科目余额表" ></item_l>
+                <item_l label="个人部门余额表" ></item_l>
+                <item_l label="个人余额表" ></item_l>
+                <item_l label="个人三栏式余额表" ></item_l>
+            </item>
+            <item label="个人往来明细账" >
+                <item_l label="个人科目明细账" ></item_l>
+                <item_l label="个人部门明细账" ></item_l>
+                <item_l label="个人明细账查询" ></item_l>
+                <item_l label="个人三栏式明细账" ></item_l>
+                <item_l label="个人多栏式明细账" ></item_l>
+            </item>
+            <item label="个人往来清理" ></item>
+            <item label="个人往来催款单" ></item>
+            <item label="个人往来账龄分析" ></item>
+            <item label="部门总账" >
+                <item_l label="部门科目总账" ></item_l>
+                <item_l label="部门总账" ></item_l>
+                <item_l label="部门三栏总账" ></item_l>
+            </item>
+            <item label="部门明细账" >
+                <item_l label="部门科目明细账" ></item_l>
+                <item_l label="部门明细账" ></item_l>
+                <item_l label="部门三栏式明细账" ></item_l>
+                <item_l label="部门多栏式明细账" ></item_l>
+            </item>
+            <item label="部门收支分析" ></item>
+        </menu_item>
+        <menu_item label="辅助账簿" >
+            <item label="个人明细账" ></item>
+            <item label="部门三栏式明细账" ></item>
+            <item label="部门多栏式明细账" ></item>
+        </menu_item>
+        <menu_item label="期末" >
+            <item label="转账定义" >
+                <item_l label="自定义转账" ></item_l>
+                <item_l label="对应结转" ></item_l>
+                <item_l label="销售成本结转" ></item_l>
+                <item_l label="售价(计划价)销售成本结转" ></item_l>
+                <item_l label="汇兑损益" ></item_l>
+                <item_l label="期间损益" ></item_l>
+            </item>
+            <item label="转账生成" ></item>
+            <item label="对账" ></item>
+            <item label="结账" ></item>
+        </menu_item>
+    </menuitem>
+    <menuitem label="往来" >
+        <menu_item label="设置" >
+            <item label="地区分类档案" ></item>
+            <item label="客户分类档案" ></item>
+            <item label="供应商分类档案" ></item>
+            <item label="客户档案" ></item>
+            <item label="供应商档案" ></item>
+        </menu_item>
+        <menu_item label="账簿" >
+            <item label="客户余额表" >
+                <item_l label="客户科目余额表" ></item_l>
+                <item_l label="客户余额表" ></item_l>
+                <item_l label="客户三栏余额表" ></item_l>
+                <item_l label="客户部门余额表" ></item_l>
+                <item_l label="客户项目余额表" ></item_l>
+                <item_l label="客户业务员余额表" ></item_l>
+                <item_l label="客户分类余额表" ></item_l>
+                <item_l label="客户地区分类余额表" ></item_l>
+            </item>
+            <item label="客户往来明细账" >
+                <item_l label="客户科目明细账" ></item_l>
+                <item_l label="客户明细账" ></item_l>
+                <item_l label="客户三栏明细账" ></item_l>
+                <item_l label="客户部门明细账" ></item_l>
+                <item_l label="客户项目明细账" ></item_l>
+                <item_l label="客户业务员明细账" ></item_l>
+                <item_l label="客户分类明细账" ></item_l>
+                <item_l label="客户地区分类明细账" ></item_l>
+                <item_l label="客户多栏明细账" ></item_l>
+            </item>
+            <item label="供应商往来余额表" >
+                <item_l label="供应商科目余额表" ></item_l>
+                <item_l label="供应商余额表" ></item_l>
+                <item_l label="供应商三栏余额表" ></item_l>
+                <item_l label="供应商部门余额表" ></item_l>
+                <item_l label="供应商项目余额表" ></item_l>
+                <item_l label="供应商业务员余额表" ></item_l>
+                <item_l label="供应商分类余额表" ></item_l>
+                <item_l label="供应商地区分类余额表" ></item_l>
+            </item>
+            <item label="供应商往来明细账" >
+                <item_l label="供应商科目明细账" ></item_l>
+                <item_l label="供应商明细账表" ></item_l>
+                <item_l label="供应商三栏明细账" ></item_l>
+                <item_l label="供应商部门明细账" ></item_l>
+                <item_l label="供应商项目明细账" ></item_l>
+                <item_l label="供应商业务员明细账" ></item_l>
+                <item_l label="供应商分类明细账" ></item_l>
+                <item_l label="供应商地区分类明细账" ></item_l>
+                <item_l label="供应商多栏明细账" ></item_l>
+            </item>
+            <item label="往来管理" >
+                <item_l label="客户往来两清" ></item_l>
+                <item_l label="客户往来催款单" ></item_l>
+                <item_l label="客户往来账龄分析" ></item_l>
+                <item_l label="供应商往来两清" ></item_l>
+                <item_l label="供应商往来对账单" ></item_l>
+                <item_l label="供应商往来账龄分析" ></item_l>
+            </item>
+        </menu_item>
+        <menu_item label="打印" >
+            <item label="客户往来明细账" ></item>
+            <item label="客户往来多栏账" ></item>
+            <item label="供应商往来明细账" ></item>
+            <item label="供应商往来多栏账" ></item>
+        </menu_item>
+    </menuitem>
+    <menuitem label="现金" >
+        <menu_item label="设置" >
+            <item label="银行期初录入" ></item>
+        </menu_item>
+        <menu_item label="现金管理" >
+            <item label="日记账" >
+                <item_l label="现金日记账" ></item_l>
+                <item_l label="银行日记账" ></item_l>
+                <item_l label="资金日报" ></item_l>
+            </item>
+            <item label="银行账" >
+                <item_l label="银行对账单" ></item_l>
+                <item_l label="银行对账" ></item_l>
+                <item_l label="余额调节表查询" ></item_l>
+                <item_l label="查询对账勾对情况" ></item_l>
+                <item_l label="核销银行账" ></item_l>
+            </item>
+            <item label="长期未达账审计" ></item>
+        </menu_item>
+        <menu_item label="票据管理" >
+            <item label="支票登记簿" ></item>
+        </menu_item>
+        <menu_item label="账簿打印" >
+        </menu_item>
+    </menuitem>
+    <menuitem label="出纳" >
+    </menuitem>
+    <menuitem label="项目" >
+        <menu_item label="设置" >
+            <item label="项目目录" ></item>
+        </menu_item>
+        <menu_item label="账簿" >
+            <item label="项目总账" >
+                <item_l label="项目科目总账" ></item_l>
+                <item_l label="项目总账" ></item_l>
+                <item_l label="项目三栏式总账" ></item_l>
+                <item_l label="项目分类总账" ></item_l>
+                <item_l label="项目部门总账" ></item_l>
+                <item_l label="项目个人总账" ></item_l>
+            </item>
+            <item label="项目明细账" >
+                <item_l label="项目科目明细账" ></item_l>
+                <item_l label="项目明细账" ></item_l>
+                <item_l label="项目三栏式明细账" ></item_l>
+                <item_l label="项目部门明细账" ></item_l>
+                <item_l label="项目分类明细账" ></item_l>
+                <item_l label="项目多栏明细账" ></item_l>
+                <item_l label="项目个人明细账" ></item_l>
+            </item>
+            <item label="项目统计分析" ></item>
+        </menu_item>
+        <menu_item label="打印" >
+            <item label="项目三栏明细账" ></item>
+            <item label="项目多栏明细账" ></item>
+        </menu_item>
+    </menuitem>
+    <menuitem label="税务" >
+        <menu_item label="税务鉴定" ></menu_item>
+        <menu_item label="税务核算" >
+            <item label="增值税申报" ></item>
+            <item label="消费税申报" ></item>
+            <item label="营业税申报" ></item>
+            <item label="所得税申报" ></item>
+        </menu_item>
+        <menu_item label="涉税分析" ></menu_item>
+        <menu_item label="税务工具" >
+            <item label="发票查验" ></item>
+            <item label="财税计算器" ></item>
+        </menu_item>
+        <menu_item label="税务支持" >
+            <item label="会乐问答" ></item>
+            <item label="咨询中心" ></item>
+            <item label="财税法规" ></item>
+        </menu_item>
+        <menu_item label="办税流程" ></menu_item>
+        <menu_item label="办税导航" ></menu_item>
+    </menuitem>
+    <menuitem label="财务报表" ></menuitem>
+    <menuitem label="工资" >
+        <menu_item label="工资类别" >
+            <item label="打开工资类别" ></item>
+            <item label="新建工资类别" ></item>
+            <item label="删除工资类别" ></item>
+        </menu_item>
+        <menu_item label="设置" >
+            <item label="人员附加信息设置" ></item>
+            <item label="人员类别设置" ></item>
+            <item label="工资项目设置" ></item>
+            <item label="银行名称设置" ></item>
+            <item label="部门选择设置" ></item>
+            <item label="打印设置" ></item>
+            <item label="权限设置" ></item>
+            <item label="人员档案" ></item>
+            <item label="选项" ></item>
+        </menu_item>
+        <menu_item label="业务处理" >
+            <item label="工资变动" ></item>
+            <item label="工资分钱清单" ></item>
+            <item label="扣缴所得税" ></item>
+            <item label="银行代发" ></item>
+            <item label="工资分摊" ></item>
+            <item label="月末处理" ></item>
+            <item label="反结账" ></item>
+        </menu_item>
+        <menu_item label="统计分析" >
+            <item label="账表" >
+                <item_l label="我的账 表" ></item_l>
+                <item_l label="工资表" ></item_l>
+                <item_l label="工资分析表" ></item_l>
+                <item_l label="纳税所得申报表" ></item_l>
+            </item>
+            <item label="凭证查询" ></item>
+        </menu_item>
+        <menu_item label="系统工具" >
+            <item label="数据接口管理" ></item>
+        </menu_item>
+    </menuitem>
+    <menuitem label="固定资产" >
+        <menu_item label="设置" >
+            <item label="选项" ></item>
+            <item label="部门档案" ></item>
+            <item label="部门对应折旧科目" ></item>
+            <item label="资产类别" ></item>
+            <item label="增减方式" ></item>
+            <item label="使用状况" ></item>
+            <item label="折旧方法" ></item>
+        </menu_item>
+        <menu_item label="卡片" >
+            <item label="卡片项目" ></item>
+            <item label="卡片样式" ></item>
+            <item label="卡片管理" ></item>
+            <item label="录入原始卡片" ></item>
+            <item label="资产增加" ></item>
+            <item label="资产减少" ></item>
+            <item label="变动单" >
+                <item_l label="原值增加" ></item_l>
+                <item_l label="原值减少" ></item_l>
+                <item_l label="部门转移" ></item_l>
+                <item_l label="使用状况变动" ></item_l>
+                <item_l label="折旧方法调整" ></item_l>
+                <item_l label="累计折旧调整" ></item_l>
+                <item_l label="使用年限调整" ></item_l>
+                <item_l label="工作总量调整" ></item_l>
+                <item_l label="净残值(率)调整" ></item_l>
+            </item>
+            <item label="批量变动" ></item>
+            <item label="资产评估" ></item>
+            <item label="批量打印" ></item>
+        </menu_item>
+        <menu_item label="处理" >
+            <item label="工作量输入" ></item>
+            <item label="计提本月折旧" ></item>
+            <item label="折旧清单" ></item>
+            <item label="折旧分配表" ></item>
+            <item label="对账" ></item>
+            <item label="批量制单" ></item>
+            <item label="凭证查询" ></item>
+            <item label="月末结账" ></item>
+        </menu_item>
+        <menu_item label="账表" >
+            <item label="我的账表" ></item>
+        </menu_item>
+        <menu_item label="维护" >
+            <item label="数据接口管理" ></item>
+            <item label="重新初始化账套" ></item>
+        </menu_item>
+    </menuitem>
+    <menuitem label="采购" >
+        <menu_item label="采购业务范围设置" ></menu_item>
+        <menu_item label="期初记账" ></menu_item>
+        <menu_item label="采购订单" ></menu_item>
+        <menu_item label="采购发票" ></menu_item>
+        <menu_item label="采购结算" >
+            <item label="自动结算" ></item>
+            <item label="手工结算" ></item>
+            <item label="费用折扣结算" ></item>
+            <item label="结算单明细列表" ></item>
+        </menu_item>
+        <menu_item label="供应商往来" >
+            <item label="供应商往来期初" ></item>
+            <item label="应付单" ></item>
+            <item label="付款结算" ></item>
+            <item label="应付冲应付" ></item>
+            <item label="预付冲应付" ></item>
+            <item label="应付冲应收" ></item>
+            <item label="红票对冲" ></item>
+            <item label="汇兑损益" ></item>
+        </menu_item>
+        <menu_item label="采购单据列表" >
+            <item label="采购订单列表" ></item>
+            <item label="采购入库单列表" ></item>
+            <item label="采购发票列表" ></item>
+        </menu_item>
+        <menu_item label="采购明细表" >
+            <item label="采购明细表" ></item>
+            <item label="入库明细表" ></item>
+            <item label="结算明细表" ></item>
+            <item label="费用明细表" ></item>
+            <item label="货到票未到明细表" ></item>
+            <item label="票到货未到明细表" ></item>
+            <item label="增值税抵扣明细表" ></item>
+            <item label="采购发票核销明细表" ></item>
+        </menu_item>
+        <menu_item label="采购统计表" >
+            <item label="订单执行统计表" ></item>
+            <item label="采购订货统计表" ></item>
+            <item label="采购统计表" ></item>
+            <item label="入库统计表" ></item>
+            <item label="结算统计表" ></item>
+            <item label="货到票未到统计表" ></item>
+            <item label="票到货未到统计表" ></item>
+            <item label="综合统计表" ></item>
+            <item label="供应商催货函" ></item>
+        </menu_item>
+        <menu_item label="采购账簿" ></menu_item>
+        <menu_item label="供应商往来账表" >
+            <item label="供应商往来总账" ></item>
+            <item label="供应商往来余额表" ></item>
+            <item label="供应商往来明细表" ></item>
+            <item label="供应商往来对账单" ></item>
+        </menu_item>
+        <menu_item label="我的报表" ></menu_item>
+        <menu_item label="月末结账" ></menu_item>
+    </menuitem>
+    <menuitem label="销售" >
+        <menu_item label="销售业务范围设置" ></menu_item>
+        <menu_item label="销售订单" ></menu_item>
+        <menu_item label="销售发货单" ></menu_item>
+        <menu_item label="销售发票" ></menu_item>
+        <menu_item label="客户往来" >
+            <item label="客户往来期初" ></item>
+            <item label="应收单" ></item>
+            <item label="收款结算" ></item>
+            <item label="应收冲应收" ></item>
+            <item label="预收冲应收" ></item>
+            <item label="应收冲应付" ></item>
+            <item label="红票对冲" ></item>
+            <item label="汇兑损益" ></item>
+        </menu_item>
+        <menu_item label="销售单据列表" >
+            <item label="销售订单列表" ></item>
+            <item label="销售发货单列表" ></item>
+            <item label="销售发票列表" ></item>
+            <item label="代垫费用单列表" ></item>
+            <item label="销售支出单列表" ></item>
+        </menu_item>
+        <menu_item label="价格管理" >
+            <item label="存货价格" ></item>
+            <item label="客户价格" ></item>
+            <item label="调价记录" ></item>
+        </menu_item>
+        <menu_item label="销售明细账" >
+            <item label="销售收入明细表" ></item>
+            <item label="销售成本明细账" ></item>
+            <item label="销售明细账" ></item>
+            <item label="发货单结算收款勾对表" ></item>
+            <item label="劳务收入明细账" ></item>
+        </menu_item>
+        <menu_item label="销售明细表" >
+            <item label="销售订货明细表" ></item>
+            <item label="销售明细表" ></item>
+            <item label="发货明细表" ></item>
+            <item label="退货明细表" ></item>
+            <item label="现收款明细表" ></item>
+            <item label="普通发票使用明细表" ></item>
+            <item label="专用发票使用明细表" ></item>
+            <item label="代垫费用明细表" ></item>
+            <item label="销售费用明细表" ></item>
+            <item label="销售发票核销明细表" ></item>
+        </menu_item>
+        <menu_item label="客户往来账表" >
+            <item label="客户往来总账" ></item>
+            <item label="客户往来余额表" ></item>
+            <item label="客户往来明细账" ></item>
+            <item label="客户对账单" ></item>
+            <item label="业务账龄分析" ></item>
+            <item label="客户期间对账单" ></item>
+            <item label="应收对账单" ></item>
+        </menu_item>
+        <menu_item label="我的报表" ></menu_item>
+        <menu_item label="月末结账" ></menu_item>
+    </menuitem>
+</menu>
